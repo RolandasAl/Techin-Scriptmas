@@ -20,4 +20,5 @@ total_seconds = total_minutes * 60
 
 print(f"Time: {time}\n"
       f"Since midnight passed: {total_minutes} minutes\n"
+
       f"Since midnight passed: {total_seconds} seconds")
